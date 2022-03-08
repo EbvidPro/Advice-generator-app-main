@@ -39,13 +39,13 @@ main {
   padding: 20px 20px 20px 20px;
   border-radius: 8px;
 }
-.container p {
+.container h1 {
   color: var(--NeonGreen);
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
-.container h2 {
+.container p {
   color: var(--LightCyan);
 }
 .container img {
